@@ -6,8 +6,9 @@ Contributors earn governance tokens, which enable them to participate in the dec
 This fosters a transparent and community-driven ecosystem for advancing educational projects.
 
 ## Contract Address
-0x7E94bc94831BbFEfb8197cDA0cEC9e7A8A37aA16
-![Screenshot](https://github.com/user-attachments/assets/3b128edf-bcb2-42d7-8696-a0a432eb899e)
+0x73FA228bBCAD199754e4FC0C43F0d5f8C10BA8A1
+![image](https://github.com/user-attachments/assets/b0d69361-704d-4cb2-9c53-ca3847be1729)
+
 
 ## Project Vision
 To establish a decentralized and inclusive governance model for educational development, 
