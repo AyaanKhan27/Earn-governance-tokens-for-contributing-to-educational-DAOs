@@ -7,6 +7,7 @@ This fosters a transparent and community-driven ecosystem for advancing educatio
 
 ## Contract Address
 0x7E94bc94831BbFEfb8197cDA0cEC9e7A8A37aA16
+![Screenshot](https://github.com/user-attachments/assets/3b128edf-bcb2-42d7-8696-a0a432eb899e)
 
 ## Project Vision
 To establish a decentralized and inclusive governance model for educational development, 
